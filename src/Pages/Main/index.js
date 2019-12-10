@@ -15,7 +15,7 @@ class MainComponent extends React.Component {
     // let thisSTATE = this.state.data;
 
     axios
-      .get("http://api.tvmaze.com/schedule?country=US")
+      .get("https://api.tvmaze.com/schedule?country=US")
       .then(res => {
         let channelName = [];
         res.data.map(item =>
