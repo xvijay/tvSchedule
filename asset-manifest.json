@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tvSchedule/static/css/main.0f3189b5.chunk.css",
+    "main.css": "/tvSchedule/static/css/main.6359767b.chunk.css",
     "main.js": "/tvSchedule/static/js/main.a5c5408a.chunk.js",
     "main.js.map": "/tvSchedule/static/js/main.a5c5408a.chunk.js.map",
     "runtime-main.js": "/tvSchedule/static/js/runtime-main.856f207a.js",
@@ -8,15 +8,15 @@
     "static/js/2.b5c213af.chunk.js": "/tvSchedule/static/js/2.b5c213af.chunk.js",
     "static/js/2.b5c213af.chunk.js.map": "/tvSchedule/static/js/2.b5c213af.chunk.js.map",
     "index.html": "/tvSchedule/index.html",
-    "precache-manifest.a40b1f7531ea27e447fa610779ae8a01.js": "/tvSchedule/precache-manifest.a40b1f7531ea27e447fa610779ae8a01.js",
+    "precache-manifest.61071195f7221fe6ee0d65ad25a42094.js": "/tvSchedule/precache-manifest.61071195f7221fe6ee0d65ad25a42094.js",
     "service-worker.js": "/tvSchedule/service-worker.js",
-    "static/css/main.0f3189b5.chunk.css.map": "/tvSchedule/static/css/main.0f3189b5.chunk.css.map",
+    "static/css/main.6359767b.chunk.css.map": "/tvSchedule/static/css/main.6359767b.chunk.css.map",
     "static/js/2.b5c213af.chunk.js.LICENSE": "/tvSchedule/static/js/2.b5c213af.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.856f207a.js",
     "static/js/2.b5c213af.chunk.js",
-    "static/css/main.0f3189b5.chunk.css",
+    "static/css/main.6359767b.chunk.css",
     "static/js/main.a5c5408a.chunk.js"
   ]
 }
